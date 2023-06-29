@@ -1,3 +1,7 @@
 https://github.com/hemanth1277/devopsrepo.git
+<<<<<<< HEAD
 
 https://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@github.com/<username>/<repositoryname>.git
+=======
+git@github.com:hemanth1277/devopsrepo.git
+>>>>>>> 4c92334ba22a7bdc758f923086829a0bd4b1d034
